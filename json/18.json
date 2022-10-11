@@ -1,0 +1,39 @@
+{
+  "name": "Cyber Homyak #18",
+  "description": "The first Collection of degens, enthusiasts and experts on The Open Network blockchain",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/18.png",
+  "dna": "7578ee890069c1fb05638a01b2e44cfc1a47a96f",
+  "edition": 18,
+  "date": 1665515984024,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Olimpyka Hom yaka"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Black Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eyes"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ochechi"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ushanka"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
