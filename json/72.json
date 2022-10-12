@@ -1,0 +1,43 @@
+{
+  "name": "Cripto Shiller #3",
+  "description": "Buy my course",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/3.png",
+  "dna": "9303fef79486f031405b996f86ce2fcd2beaaefa",
+  "edition": 3,
+  "date": 1665567992870,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cripto"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Heart Crypto"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Filled Red Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "TON Medallion"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ochechi"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

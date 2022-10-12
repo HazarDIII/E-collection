@@ -1,0 +1,43 @@
+{
+  "name": "Fiatniy Shiller #7",
+  "description": "rouble trader",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/7.png",
+  "dna": "cdf0e1a5594f8858741edbf64e1f887fb97b0929",
+  "edition": 7,
+  "date": 1665566378170,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fiat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White Classic Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Filled Red Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "B Neckles"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Mac"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ochechi"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Red Horns"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

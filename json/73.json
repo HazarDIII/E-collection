@@ -1,0 +1,43 @@
+{
+  "name": "Cripto Shiller #4",
+  "description": "Buy my course",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/4.png",
+  "dna": "05ef5e97811509607e05e9f8850f5238551f4f03",
+  "edition": 4,
+  "date": 1665567995733,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cripto"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TON Shiller Tshirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Filled Red Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Welding Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
