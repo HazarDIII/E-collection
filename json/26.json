@@ -1,0 +1,39 @@
+{
+  "name": "Fiatniy Admin #3",
+  "description": "Low-level admin",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/199.png",
+  "dna": "3b163203f6492837bc575d50c09282fcdd450310",
+  "edition": 199,
+  "date": 1665590024906,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fiat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aiz_Grey"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FAdmin Tshirt"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "B"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Red blue ochi"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Slick Hairstyle Admin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

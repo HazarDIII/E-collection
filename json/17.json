@@ -1,0 +1,39 @@
+{
+  "name": "Fiatniy Homyak #3",
+  "description": "Shit humpster",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/9.png",
+  "dna": "ca031561a4b3f734c0fdc6b83890bef0a31d6da8",
+  "edition": 9,
+  "date": 1665524655349,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fiat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Green Tic tac toe Tshirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eyes"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Brown Beard"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bluegray Ton Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

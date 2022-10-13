@@ -1,0 +1,31 @@
+{
+  "name": "Cripto Anonim #5",
+  "description": "Tornado casher",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/150.png",
+  "dna": "43d98ca53fa69e0bd56925772745ea6780a21a78",
+  "edition": 150,
+  "date": 1665582811066,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cripto"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Anonim 333"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Anonim Kepka Glasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

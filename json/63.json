@@ -1,0 +1,39 @@
+{
+  "name": "Cripto Guru #5",
+  "description": "BTC buyer",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/127.png",
+  "dna": "5cecbeab0188ea2bf6dc8f9b70d1e609c909c848",
+  "edition": 127,
+  "date": 1665579709323,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cripto"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Guru Vaserman"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Straw Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

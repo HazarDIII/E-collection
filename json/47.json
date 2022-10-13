@@ -1,0 +1,31 @@
+{
+  "name": "Cyber Anonim #5",
+  "description": "Telegram user",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/139.png",
+  "dna": "448c827335628d41860d135901e902eea5d422a8",
+  "edition": 139,
+  "date": 1665582180309,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "DM Undershir"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dot Eyes"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Anonim Kepka Glasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Cyber Eblan #1",
+  "description": "The mother hacker",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/206.png",
+  "dna": "7096e7668b792198193d5986997129ee1818bb41",
+  "edition": 206,
+  "date": 1665592413688,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Filled Blue Eyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Ubdershit Fat"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Glasses Round_Admin"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Shaved Whiski 2"
+    },
+    {
+      "trait_type": "WTF",
+      "value": "Eblan Mustash"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

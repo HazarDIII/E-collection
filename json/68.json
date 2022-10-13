@@ -1,0 +1,43 @@
+{
+  "name": "Cripto Shiller #7",
+  "description": "Buy my course",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/76.png",
+  "dna": "787102dfbc0068120cd92d5e5a3b126639a1a815",
+  "edition": 76,
+  "date": 1665568003425,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cripto"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White Classic Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Filled Red Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "PC"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Welding Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mugivara"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

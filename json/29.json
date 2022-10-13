@@ -1,0 +1,43 @@
+{
+  "name": "Fiatniy Expert #5",
+  "description": "Digital rouble holder",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/95.png",
+  "dna": "165cb3b7253034059f1e0c181dd167a8f4bdb8d1",
+  "edition": 95,
+  "date": 1665575991644,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fiat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Polo White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dot Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Blond"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cap Grusha Black"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Cross Earring"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

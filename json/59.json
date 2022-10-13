@@ -1,0 +1,43 @@
+{
+  "name": "Cyber Shiller #2",
+  "description": "Newbie annoyer",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/57.png",
+  "dna": "ca12bd2fae506b41afaf506016563dbf79705894",
+  "edition": 57,
+  "date": 1665541328714,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White Gavaika"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Filled Red Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Y"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Mac"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ochechi"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Edison"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

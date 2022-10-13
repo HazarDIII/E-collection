@@ -1,0 +1,39 @@
+{
+  "name": "Meta Clown #4",
+  "description": "God of digital-clownity",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/174.png",
+  "dna": "accfe5e73c740c4643092bea270be9474dc2da90",
+  "edition": 174,
+  "date": 1665585669472,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Clown Suit 1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Drug Eyes"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Red Nos"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Kolpak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

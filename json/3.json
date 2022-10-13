@@ -1,0 +1,39 @@
+{
+  "name": "Fiatniy Clown #2",
+  "description": "Usd liker",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/162.png",
+  "dna": "2f3e423a5abddd1b2d318df291fd371a0dc9f6ee",
+  "edition": 162,
+  "date": 1665585253145,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fiat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Clown Suit TON"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Drug Eyes"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Red Nos"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mikky"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

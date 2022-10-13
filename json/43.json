@@ -1,0 +1,31 @@
+{
+  "name": "Fiatniy Anonim #3",
+  "description": "Sshhhhh",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/145.png",
+  "dna": "b6ebe53a67c5aaf3af756c9e3bcbad6cb2678fa7",
+  "edition": 145,
+  "date": 1665582589605,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fiat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Anonim 333"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Computer Eyes"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Anonim Kepka"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

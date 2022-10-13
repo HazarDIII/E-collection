@@ -1,0 +1,39 @@
+{
+  "name": "Cripto Clown #5",
+  "description": "Fomo enjoyer",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/166.png",
+  "dna": "1217f0a165c6de218e0f61b22018951703a5b0e0",
+  "edition": 166,
+  "date": 1665585465195,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cripto"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Clown Suit 1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Dudelka"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

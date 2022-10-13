@@ -1,0 +1,43 @@
+{
+  "name": "Meta Expert #5",
+  "description": "The expert of everything",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/109.png",
+  "dna": "71814c2b2595f669a1eb87a57d216b61ae0dabf4",
+  "edition": 5,
+  "date": 1665576415399,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Polo Grey"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dot Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Bitoc"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brown Expert Style"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Fiatniy Bomj #1",
+  "description": "Usdholder",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/35.png",
+  "dna": "f62693dce7b5f6366941dd919e9e88192e3a841b",
+  "edition": 35,
+  "date": 1665533218342,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fiat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Rubashka with Pocket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Filled Green Eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Face Dirt"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crumpled Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

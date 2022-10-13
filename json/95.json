@@ -1,0 +1,35 @@
+{
+  "name": "Meta Anarchist #3",
+  "description": "God of digital anarchy",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/192.png",
+  "dna": "5ad00ca2117df19e5a920481e85e5f5c5cf4ace8",
+  "edition": 192,
+  "date": 1665588932669,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Anarchist Brow Ber"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Head Bandana"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ThreePiece Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

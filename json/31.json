@@ -1,0 +1,43 @@
+{
+  "name": "Meta Expert #1",
+  "description": "The expert of everything",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/105.png",
+  "dna": "f41d5672d137e424d4a0a4cc7f01007698f82e14",
+  "edition": 105,
+  "date": 1665576405837,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Expert Tshirt Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dot Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "TON Medallion"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cap Grusha Black"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Air Pods"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

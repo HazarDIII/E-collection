@@ -1,0 +1,31 @@
+{
+  "name": "Fiatniyq Guru #3",
+  "description": "Don't-knower",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/119.png",
+  "dna": "9516e99a4ea890c2f77785cd91fe880d040435e7",
+  "edition": 119,
+  "date": 1665579510603,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fiat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Balahon guru"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DarkGreen Eyes"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

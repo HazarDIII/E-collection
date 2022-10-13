@@ -1,0 +1,39 @@
+{
+  "name": "Meta Bomj #7",
+  "description": "A piece of art",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/55.png",
+  "dna": "90fbf84a68299baa6c4e75015aec686badc73bbf",
+  "edition": 55,
+  "date": 1665534716960,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bezrukavka"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Filled Green Eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Black Eyed"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Watermelon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

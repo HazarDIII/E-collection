@@ -1,0 +1,35 @@
+{
+  "name": "Meta Guru #2",
+  "description": "Yoda",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/130.png",
+  "dna": "7c9586d73764567bf70ac598a6d7f72124e31d2e",
+  "edition": 130,
+  "date": 1665580043495,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Grey Halat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Eyes"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Hend"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Falga"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

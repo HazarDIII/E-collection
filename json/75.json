@@ -1,0 +1,35 @@
+{
+  "name": "Meta Anarchist #4",
+  "description": "God of digital anarchy",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/193.png",
+  "dna": "4fec856efcc8730e38103f3a50c0283a81a52d6a",
+  "edition": 193,
+  "date": 1665588934394,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Anarchist Pirsing Nos"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Death Cap"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Anarchist Kurtka"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

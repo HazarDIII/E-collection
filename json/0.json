@@ -1,0 +1,39 @@
+{
+  "name": "Cripto Homyak #7",
+  "description": "The first Collection of degens, enthusiasts and experts on The Open Network blockchain",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/20.png",
+  "dna": "5ed94e4a073b20f33d3751e019221cb23060d2b1",
+  "edition": 20,
+  "date": 1665527372596,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cripto"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Tic tac toe Tshirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Eyes"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Black Beard"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "TON Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

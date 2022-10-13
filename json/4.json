@@ -1,0 +1,35 @@
+{
+  "name": "Fiatniy Anarchist #3",
+  "description": "Rouble seller",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/183.png",
+  "dna": "400c96fc5460fd272ec66d127cbba63750a3271c",
+  "edition": 183,
+  "date": 1665588376373,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fiat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ThreePiece Suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hazard Mask"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Head Bandana"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

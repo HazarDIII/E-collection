@@ -1,0 +1,39 @@
+{
+  "name": "Cripto Bomj #4",
+  "description": "Bearmarketer",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/45.png",
+  "dna": "51770b0c48fa6570d609103de4eb65372414ed76",
+  "edition": 45,
+  "date": 1665533634768,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cripto"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow Bomj Undershirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Filled Green Eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Face Dirt"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Kosinka"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

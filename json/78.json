@@ -1,0 +1,43 @@
+{
+  "name": "Cripto Expert #3",
+  "description": "Crypto-knower",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/100.png",
+  "dna": "6c5c1f8f1c88f7e5222cb6037b69da0d60b3ea38",
+  "edition": 100,
+  "date": 1665574794594,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cripto"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "VeryExpert Jacker"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dot Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Blond"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cap Grusha White"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Cross Earring"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

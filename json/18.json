@@ -1,0 +1,35 @@
+{
+  "name": "Fiatniy Anarchist #4",
+  "description": "Rouble seller",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/184.png",
+  "dna": "fbc158bfbe14062f55b22e088bd8737540158bc8",
+  "edition": 184,
+  "date": 1665588378114,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fiat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "FTW Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Anarchist Erokez 2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Fiatniy Eblan #2",
+  "description": "The best degenerate",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/210.png",
+  "dna": "bc444e396610e3ad6f6e11bb9a6e7aa1ab43fca7",
+  "edition": 210,
+  "date": 1665595427978,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fiat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Filled Blue Eyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Koffta"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Eblan Hat"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Eblan Ochki"
+    },
+    {
+      "trait_type": "WTF",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

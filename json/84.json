@@ -1,0 +1,43 @@
+{
+  "name": "Fiatniy Expert #2",
+  "description": "Digital rouble holder",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/92.png",
+  "dna": "a4835fec76b539b5438160253d0dd8e8bc4da7b6",
+  "edition": 92,
+  "date": 1665575984145,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fiat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Expert Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dot Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Vergil"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Karandash"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Fiatniy Anarchist #2",
+  "description": "Rouble seller",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/182.png",
+  "dna": "1bb85c09481e70adf064a4ada4b699e912417575",
+  "edition": 182,
+  "date": 1665588374611,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fiat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Anarchist Kurtka"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Drug Eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Anarhist Cap Black"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

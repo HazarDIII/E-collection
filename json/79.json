@@ -1,0 +1,39 @@
+{
+  "name": "Cyber Admin #3",
+  "description": "Mother-admin",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/196.png",
+  "dna": "3008991b7c3dbf5bc22d625b7e75df24f06c007c",
+  "edition": 196,
+  "date": 1665589312306,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aiz_Grey"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tshirt_Admin"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ochi dm"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Admin Klava cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

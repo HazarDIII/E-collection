@@ -1,0 +1,35 @@
+{
+  "name": "Meta Guru #6",
+  "description": "Yoda",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/134.png",
+  "dna": "07bc908043b42f23ce3c790433ca4e9aff1d5ae6",
+  "edition": 134,
+  "date": 1665580051390,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hallatishe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Straw Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

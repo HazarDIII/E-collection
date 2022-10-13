@@ -1,0 +1,39 @@
+{
+  "name": "Meta Homyak #4",
+  "description": "Hologramm hum",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/24.png",
+  "dna": "70d003d4df6f306efcf0e34324698c653d14fbdc",
+  "edition": 24,
+  "date": 1665528635420,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LoveCripro Tsirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Eyes"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Black Beard"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "White Kepa"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

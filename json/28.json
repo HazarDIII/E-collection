@@ -1,0 +1,43 @@
+{
+  "name": "Meta Shiller #3",
+  "description": "Annoyer",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/79.png",
+  "dna": "ea3783b555ee5be6bb0302b59aa222db3c7bbb8b",
+  "edition": 79,
+  "date": 1665569106006,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TON Shiller Tshirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Filled Red Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ochechi"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Red Horns"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Cripto Clown #2",
+  "description": "Fomo enjoyer",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/168.png",
+  "dna": "efca3e41b206b361a2da65db8908237b524c6db1",
+  "edition": 168,
+  "date": 1665585457958,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cripto"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pirat clown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Drug Eyes"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Grim 1"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Classic Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
