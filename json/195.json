@@ -1,0 +1,39 @@
+{
+  "name": "Fiatniy Admin #2",
+  "description": "Low-level admin",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/198.png",
+  "dna": "5bd96c9a655c8064a20553d00b1e6ba7222bdb77",
+  "edition": 198,
+  "date": 1665590022889,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fiat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aiz_Grey"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Shirtless"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Glassless"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Admin naushniki Kurdish"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

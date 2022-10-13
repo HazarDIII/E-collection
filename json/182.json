@@ -1,0 +1,47 @@
+{
+  "name": "Cyber Expert #4",
+  "description": "Low-skill greeny",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/87.png",
+  "dna": "9ec0e7f9f8cb03756bca399f8a936b3379e5081b",
+  "edition": 87,
+  "date": 1665575341581,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Experts Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dot Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Shaten"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Expert Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

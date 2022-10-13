@@ -1,0 +1,31 @@
+{
+  "name": "Cyber Anonim #3",
+  "description": "Telegram user",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/137.png",
+  "dna": "f358920331bb90eb009d4786001a3266972120fc",
+  "edition": 137,
+  "date": 1665582176656,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Anonim 111"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Anonim Kepka Glasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

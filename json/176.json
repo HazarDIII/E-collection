@@ -1,0 +1,39 @@
+{
+  "name": "Meta Homyak #5",
+  "description": "Hologramm hum",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/52.png",
+  "dna": "97ca7c238eacdeb15a11f44ee0c74074fde6195a",
+  "edition": 25,
+  "date": 1665528637585,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bluegray Humster Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Eyes"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Thick beard"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Ushanka"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

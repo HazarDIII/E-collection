@@ -1,0 +1,43 @@
+{
+  "name": "Cripyo Admin #2",
+  "description": "Crypto public admin",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/201.png",
+  "dna": "6289f4d99d5a7cf8fd7dcd60382197a47e191f3f",
+  "edition": 201,
+  "date": 1665590419393,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cripto"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aiz_Grey"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tshirt No Girls_Admin"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Medallion"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Glassless"
+    },
+    {
+      "trait_type": "Smile",
+      "value": "Teeth multicoloured_White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Admin Headphones"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

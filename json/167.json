@@ -1,0 +1,31 @@
+{
+  "name": "Meta Anonim #3",
+  "description": "Question mark",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/153.png",
+  "dna": "086399787c003f4d33c97bc9e7856ac9f9bcd380",
+  "edition": 153,
+  "date": 1665583233773,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Anonim 333"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Computer Eyes"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Anonim Kepka Glasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Cyber Shiller #3",
+  "description": "Newbie annoyer",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/58.png",
+  "dna": "2cc259cbed1946e51b3a4773f16fd46f7658ae28",
+  "edition": 58,
+  "date": 1665541331175,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Shiller Classic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Filled Red Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "T"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Orange Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Styled Hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

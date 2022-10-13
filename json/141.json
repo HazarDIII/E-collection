@@ -1,0 +1,35 @@
+{
+  "name": "Meta Anarchist #2",
+  "description": "God of digital anarchy",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/191.png",
+  "dna": "2be9d518a9f780582a0f20fa9808f7af99a779eb",
+  "edition": 191,
+  "date": 1665588930914,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Anarchist Pirsing Brov"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Anarhist Cap Black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "ThreePiece Suit"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Meta Expert #4",
+  "description": "The expert of everything",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/108.png",
+  "dna": "994e4cb8cbad27fd9859c4ac08dc4504d359e7eb",
+  "edition": 4,
+  "date": 1665576412951,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TON Polo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dot Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brown Expert Style"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Karandash"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

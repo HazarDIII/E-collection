@@ -1,0 +1,39 @@
+{
+  "name": "Meta Clown #1",
+  "description": "God of digital-clownity",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/171.png",
+  "dna": "c1710ef4f2d7194248616d5fd60c678fa58b8422",
+  "edition": 171,
+  "date": 1665585663107,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Clown Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Drug Eyes"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Grim 1"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clown Cap2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

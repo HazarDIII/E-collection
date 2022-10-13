@@ -1,0 +1,35 @@
+{
+  "name": "Cripto Anarchist #4",
+  "description": "Bull and bear",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/189.png",
+  "dna": "b37d62c459ed631dfdd7a171b9e5156e00b6b5cf",
+  "edition": 189,
+  "date": 1665588685765,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cripto"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Anarchist Kurtka"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Drug Eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hazard Mask"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Anarchist Erokez 1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

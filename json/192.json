@@ -1,0 +1,39 @@
+{
+  "name": "Cripto Guru #6",
+  "description": "BTC buyer",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/128.png",
+  "dna": "7bee803903020308d59e6e1e92b2065c363c7daf",
+  "edition": 128,
+  "date": 1665579711605,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cripto"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hallatishe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Busi TON"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Super Long"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

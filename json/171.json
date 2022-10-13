@@ -1,0 +1,39 @@
+{
+  "name": "Fiatniyq Guru #1",
+  "description": "Don't-knower",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/117.png",
+  "dna": "910e4bbf01b0d47e5febdbea12c42f1ab8bb47df",
+  "edition": 117,
+  "date": 1665578996739,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fiat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Guru Head"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

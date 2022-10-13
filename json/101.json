@@ -1,0 +1,31 @@
+{
+  "name": "Meta Anonim #5",
+  "description": "Question mark",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/155.png",
+  "dna": "5cbf8f1977316db24546dbec78e444713b4a5616",
+  "edition": 155,
+  "date": 1665583237522,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bluegray Humster Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Anonim Kepka Glasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

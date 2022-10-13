@@ -1,0 +1,43 @@
+{
+  "name": "Cyber Guru #1",
+  "description": "Web knower",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/111.png",
+  "dna": "3789e8e009f2c64a9f9740147c3328a981e80437",
+  "edition": 111,
+  "date": 1665578263702,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hallatishe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Guru Beard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Falga"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

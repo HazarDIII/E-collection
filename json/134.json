@@ -1,0 +1,43 @@
+{
+  "name": "Meta Expert #3",
+  "description": "The expert of everything",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/107.png",
+  "dna": "c922b63e772fdcce58927bbfa99526fb37f98340",
+  "edition": 107,
+  "date": 1665576410502,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bathrobe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dot Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Shaten"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Vergil"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Karandash"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Cyber Clown #2",
+  "description": "Facebook creature",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/157.png",
+  "dna": "107267cd5cb3cd418de354579709f9a95bfa4bfd",
+  "edition": 157,
+  "date": 1665585043184,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Harlequin Suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Drug Eyes"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Grim 3"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Kloun Afro"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Meta Bomj #6",
+  "description": "A piece of art",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/54.png",
+  "dna": "695d2b11d583e628d60d12e42c889b902daaebc5",
+  "edition": 54,
+  "date": 1665534714918,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bezrukavka"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Filled Green Eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bomj Borodka"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bomj Capitan"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

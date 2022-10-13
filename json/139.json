@@ -1,0 +1,35 @@
+{
+  "name": "Cyber Anarchist #2",
+  "description": " Anarchyanarchy",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/177.png",
+  "dna": "0a0bc4adc47d8d72ca4fd44f566bed94a57c2bfe",
+  "edition": 177,
+  "date": 1665587456894,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Drug Eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Anarchist Bristles"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Anarchist Kurtka"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Anarchist Erokez 2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

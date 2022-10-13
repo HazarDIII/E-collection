@@ -1,0 +1,35 @@
+{
+  "name": "Cyber Anarchist #4",
+  "description": " Anarchyanarchy",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/179.png",
+  "dna": "c98e1d2c55fa03e5b55198551950cac27122080d",
+  "edition": 179,
+  "date": 1665587460806,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Drug Eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Pierced Tongue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Anarchy Jacket"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Death Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

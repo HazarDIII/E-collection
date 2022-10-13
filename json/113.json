@@ -1,0 +1,31 @@
+{
+  "name": "Cyber Anonim #1",
+  "description": "Telegram user",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/135.png",
+  "dna": "13754e493c4e010f16d56c99de60eb40bcda9764",
+  "edition": 135,
+  "date": 1665582407169,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Anonim Tolstovka 333"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Computer Eyes"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Anon Triangle"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

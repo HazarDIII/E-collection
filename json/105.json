@@ -1,0 +1,39 @@
+{
+  "name": "Meta Admin #2",
+  "description": "Admin god",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/204.png",
+  "dna": "741f267305d7c3bd2b7979c3dd080d409c018654",
+  "edition": 204,
+  "date": 1665591117233,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Meta"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aiz_Grey"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tshirt_Admin"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Glassless"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Klava kudri"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Fiatniy Anonim #4",
+  "description": "Sshhhhh",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/141.png",
+  "dna": "8eefe271cb8241157541df7e5ab635415125a8f9",
+  "edition": 141,
+  "date": 1665582591209,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Fiat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Black Tic tac toe Tshirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dot Eyes"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Anonim Kepka"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

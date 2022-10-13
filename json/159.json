@@ -1,0 +1,43 @@
+{
+  "name": "Cripto Expert #2",
+  "description": "Crypto-knower",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/99.png",
+  "dna": "e17c1bbd9bc944088254fee96015c62b5cf88b50",
+  "edition": 99,
+  "date": 1665574792058,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cripto"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TON Polo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dot Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Karandash"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

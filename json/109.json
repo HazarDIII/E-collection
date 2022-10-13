@@ -1,0 +1,35 @@
+{
+  "name": "Cripto Anarchist #3",
+  "description": "Bull and bear",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/188.png",
+  "dna": "17f098cc3e4cdf290d22175ecd36c6ad4b8aa406",
+  "edition": 188,
+  "date": 1665588683863,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cripto"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Anarchist Maika"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Anarchist Erokez 1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
