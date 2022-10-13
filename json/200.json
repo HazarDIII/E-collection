@@ -1,0 +1,35 @@
+{
+  "name": "Cripto Anarchist #1",
+  "description": "Bull and bear",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/186.png",
+  "dna": "bde9b47f87194d292535931bfb0a226cdc73e677",
+  "edition": 186,
+  "date": 1665588679623,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cripto"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Anarchy Jacket"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Eyes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hazard Mask"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Death Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

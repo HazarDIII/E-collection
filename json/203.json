@@ -1,0 +1,31 @@
+{
+  "name": "Cripto Anonim #2",
+  "description": "Tornado casher",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/147.png",
+  "dna": "d40e74f185f49a7f936430ea844d80d8527bcb80",
+  "edition": 147,
+  "date": 1665582805016,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cripto"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bluegray Humster Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Deus Vult"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

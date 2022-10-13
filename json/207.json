@@ -1,0 +1,39 @@
+{
+  "name": "Cripto Eblan #2",
+  "description": "The biggest cryptofan",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/212.png",
+  "dna": "fd1955cb2a7de98ca8e35dcba1e8068d292073db",
+  "edition": 212,
+  "date": 1665594262612,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cripto"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Filled Blue Eyes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow Bomj Undershirt"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Red blue ochi"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Shaved Whiski"
+    },
+    {
+      "trait_type": "WTF",
+      "value": "Empty"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

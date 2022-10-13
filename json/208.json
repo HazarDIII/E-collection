@@ -1,0 +1,43 @@
+{
+  "name": "Cripto Expert #4",
+  "description": "Crypto-knower",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/101.png",
+  "dna": "86a3bd7927f4d58d02aa28efcf44c68027c3c761",
+  "edition": 101,
+  "date": 1665574797509,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cripto"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bathrobe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dot Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Air Pods"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Cripyo Admin #3",
+  "description": "Crypto public admin",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/202.png",
+  "dna": "e9defe415a9a84b8e37dfa676ed7596992e29990",
+  "edition": 202,
+  "date": 1665590422142,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cripto"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aiz_Grey"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Meta Hero Tshirt"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Glassless"
+    },
+    {
+      "trait_type": "Smile",
+      "value": "Teeth TON_White"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Klava kudri"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
