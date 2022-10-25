@@ -1,0 +1,23 @@
+{
+  "name": "E-Padla`s Daddy",
+  "description": "— This terrible miracle of genetic engineering calls me Daddy",
+  "image": "https://raw.githubusercontent.com/HazarDIII/E-collection/main/images/216.png",
+  "dna": "97013560a01ab9a43514fc34770c0492ac378b0f",
+  "edition": 216,
+  "date": 1665583239316,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Padla"
+    },
+    {
+      "trait_type": "Collab",
+      "value": "Padla"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_White"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
